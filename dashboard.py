@@ -63,6 +63,8 @@ df["value_score"] = (
 
 app = Dash(__name__)
 
+server = app.server
+
 app.title = "Food Delivery Restaurant Analytics"
 
 
