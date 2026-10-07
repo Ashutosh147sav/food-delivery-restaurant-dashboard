@@ -1,4 +1,7 @@
 dash
 plotly
 pandas
+numpy
+matplotlib
+seaborn
 gunicorn
